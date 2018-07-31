@@ -5,4 +5,4 @@ applications:
   routes:
     - route: kg-pal-tracker-review.apps.evans.pal.pivotal.io
   env:
-    WELCOME_MESSAGE: Hello from review Cloud Foundry
+    WELCOME_MESSAGE: Hello from review cloud foundry
